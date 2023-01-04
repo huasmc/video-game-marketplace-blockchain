@@ -1,0 +1,14 @@
+{
+	"first": {
+		"publicKey": "043b8dbfc9b9f6aab57efb4022e829494d6065858da6204813f7687499f40cb65f7e4db8e6245e23b48f0e0cb1e3a700e6",
+		"privateKey": "cce7b56ca3ea0263c5d9662aa5cb44caf1a1b8c5bd9b89b4"
+	},
+	"second": {
+		"publicKey": "04d16fd067f1edf177acf15655a2f2ae97283bfcffcafae71f8eb1b124f0d73254ee63308af8127edae78bccc873e48aea",
+		"privateKey": "ab55307d6fde51f7da1bb503a05c4fab0e2fd6b018ee57af"
+	},
+	"third": {
+		"publicKey": "04790871c83e04df52ad440003565bddecd60fe0288b8dd461083f70569deb6be974ff08dc274ef5b1dbbd61fa5238356b",
+		"privateKey": "ce1985d71933d73263ff1313dc9678819f3791c3bb6e84bc"
+	}
+}
